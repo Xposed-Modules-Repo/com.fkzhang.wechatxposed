@@ -33,21 +33,21 @@ https://ko-fi.com/fkzhang
 Due to piracy my previous modules (WechatUnrecalled, WechatContactsManager, WechatForwarder) are deprecated
 If you think this module is useful, please consider a donation to support me
 
--防止微信撤回消息
--转发微信聊天里的图片和小视频到朋友圈
--转发聊天里的多张图片（最多9张）到朋友圈
--转发语音给朋友
--转发收藏内容
--转发朋友圈里的内容到自己的朋友圈
--分享图片和小视频
--屏蔽群聊成员
--自动查找僵尸粉
--批量删除好友
--批量删除僵尸粉
--自动回复
--自定义表情最高限额
--自动领取红包、转账
--等等。。。
+- 防止微信撤回消息
+- 转发微信聊天里的图片和小视频到朋友圈
+- 转发聊天里的多张图片（最多9张）到朋友圈
+- 转发语音给朋友
+- 转发收藏内容
+- 转发朋友圈里的内容到自己的朋友圈
+- 分享图片和小视频
+- 屏蔽群聊成员
+- 自动查找僵尸粉
+- 批量删除好友
+- 批量删除僵尸粉
+- 自动回复
+- 自定义表情最高限额
+- 自动领取红包、转账
+- 等等。。。
 
 请谨慎使用自动领取红包功能！
 
